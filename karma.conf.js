@@ -21,10 +21,8 @@ module.exports = function(config) {
     // list of files / patterns to load in the browser
     files: [
       'test.html',
-      'assets/js/xregexp.js',
-      'assets/js/medida.js',
-      'assets/js/temperatura.js',
-      'assets/js/test_temperatura.js',
+      'assets/js/csv.js',
+      'assets/js/test_csv.js',
       'assets/js/main.js',
       'vendor/blanket.js',
       'vendor/mocha-blanket.js',
