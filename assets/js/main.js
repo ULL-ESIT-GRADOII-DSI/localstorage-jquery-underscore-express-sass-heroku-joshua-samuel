@@ -12,4 +12,4 @@ $(document).ready(function () {
     original.value = localStorage.original;
   }
   $("button").click(main);
-});*/
+});*/ 
