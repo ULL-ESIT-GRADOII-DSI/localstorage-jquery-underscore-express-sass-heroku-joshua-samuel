@@ -16,8 +16,8 @@ For more information look at:
 
 **Página de la práctica**
 
-* [Sitio web de la página](https://ULL-ESIT-GRADOII-DSI.github.io/https://github.com/ULL-ESIT-GRADOII-DSI/localstorage-jquery-underscore-express-sass-heroku-joshua-samuel)
-* [Testing de la práctica](https://ULL-ESIT-GRADOII-DSI.github.io/https://github.com/ULL-ESIT-GRADOII-DSI/localstorage-jquery-underscore-express-sass-heroku-joshua-samuel/test)
+* [Sitio web de la página](https://ull-esit-gradoii-dsi.github.io/localstorage-jquery-underscore-express-sass-heroku-joshua-samuel)
+* [Testing de la práctica](https://ull-esit-gradoii-dsi.github.io/localstorage-jquery-underscore-express-sass-heroku-joshua-samuel/test)
 
 **Página del autor**
 
