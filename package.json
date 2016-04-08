@@ -42,5 +42,8 @@
     "karma-html2js-preprocessor": "*",
     "karma-mocha": "*",
     "mocha": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
   }
 }
