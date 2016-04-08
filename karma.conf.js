@@ -29,6 +29,7 @@ module.exports = function(config) {
       'vendor/chai.js',
       'vendor/mocha.css',
       'vendor/mocha.js',
+      'underscore.js'
     ],
 
 
