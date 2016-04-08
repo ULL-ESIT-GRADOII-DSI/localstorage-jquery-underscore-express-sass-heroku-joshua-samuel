@@ -41,7 +41,9 @@
     "karma-phantomjs-launcher": "*",
     "karma-html2js-preprocessor": "*",
     "karma-mocha": "*",
-    "mocha": "*"
+    "mocha": "*",
+    "ejs": "2.3.3",
+    "express": "4.13.3"
   },
   "engines": {
     "node": "0.10.x"
