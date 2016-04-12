@@ -1,0 +1,34 @@
+$error-color: red;
+$border-white: white;
+$green-color: #00FF66;
+$grey-color: #eee;
+$blue-color: #b0c4de;
+
+
+
+html *
+{
+   font-size: large; 
+   /* The !important ensures that nothing can override what you've set in this style (unless it is also important). */
+   font-family: Arial;
+}
+
+h1            { text-align: center; font-size: x-large; }
+th, td        { vertical-align: top; text-align: right; }   
+/* #finaltable  * { color: white; background-color: black; }   */
+
+/* #finaltable table { border-collapse:collapse; } */
+/* #finaltable table, td { border:1px solid white; } */
+#finaltable:hover td { background-color: blue; } 
+tr:nth-child(odd)    { background-color:$grey-color; }
+tr:nth-child(even)    { background-color:$green-color; }
+input        { text-align: right;  border: none;       }     /* Align input to the right  */
+textarea     { border: outset; border-color: $border-white;       }                        
+table        { border: inset; border-color: $border-white; }
+table.center { margin-left:auto; margin-right:auto; }
+#result      { border-color: $error-color; }
+tr.error       { background-color: $error-color; }
+body
+{
+ background-color:$blue-color;  /* blue */
+}
