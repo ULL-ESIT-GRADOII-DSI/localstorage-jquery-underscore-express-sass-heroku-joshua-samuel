@@ -1,4 +1,4 @@
-#ETSII ULL Grado de Informatica 
+#ETSII ULL Grado de Informatica
 #Práctica: Comma Separated Values (CSV) [![Build Status](https://travis-ci.org/Losnen/localstorage-jquery-underscore-express-sass-heroku-joshua-samuel.svg?branch=gh-pages)](https://travis-ci.org/Losnen/localstorage-jquery-underscore-express-sass-heroku-joshua-samuel)
 
 For more information look at:
@@ -18,6 +18,7 @@ For more information look at:
 
 * [Sitio web de la página](https://ull-esit-gradoii-dsi.github.io/localstorage-jquery-underscore-express-sass-heroku-joshua-samuel)
 * [Testing de la práctica](https://ull-esit-gradoii-dsi.github.io/localstorage-jquery-underscore-express-sass-heroku-joshua-samuel/test)
+* [Despliegue en Heroku](https://practica-dsi-csv.herokuapp.com/)
 
 **Página del autor**
 
@@ -27,10 +28,10 @@ For more information look at:
 **Enlaces de interés**
 
 * [Práctica: Comma Separated Values](http://crguezl.github.io/pl-html/node11.html)
-* [Despliegue en gh-pages de la aplicación inicial](http://crguezl.github.io/csv/) 
-* [SASS](http://sass-lang.com/guide) 
+* [Despliegue en gh-pages de la aplicación inicial](http://crguezl.github.io/csv/)
+* [SASS](http://sass-lang.com/guide)
 * [jQuery (en los apuntes)](http://crguezl.github.io/pl-html/node11.html#SECTION04140070000000000000)
-* [Repo de ejemplo de uso de jQuery y SASS](https://github.com/ULL-ESIT-GRADOII-DSI/jquery-simple-example) 
+* [Repo de ejemplo de uso de jQuery y SASS](https://github.com/ULL-ESIT-GRADOII-DSI/jquery-simple-example)
 
 * [Underscore](http://underscorejs.org/)
 * [Underscore en los Apuntes](http://crguezl.github.io/pl-html/node11.html#SECTION041400130000000000000)
